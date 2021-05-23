@@ -1,0 +1,22 @@
+{
+  "id": "overkamp",
+  "profileImageUrl": "https://res.cloudinary.com/streetmix/image/upload/v1612094628/production/profile_image/overkamp.png",
+  "flags": {},
+  "roles": [
+    "USER"
+  ],
+  "data": {
+    "lastStreetId": "83f221b0-6fa6-11eb-866a-0dd9f197c5ae",
+    "lastStreetNamespacedId": 5,
+    "lastStreetCreatorId": "overkamp",
+    "newStreetPreference": 1,
+    "saveAsImageTransparentSky": false,
+    "saveAsImageSegmentNamesAndWidths": false,
+    "saveAsImageStreetName": false,
+    "saveAsImageWatermark": true,
+    "locale": "de",
+    "units": 2
+  }
+}
+}
+  flags: {}
